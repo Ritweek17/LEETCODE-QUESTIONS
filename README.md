@@ -40,6 +40,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
