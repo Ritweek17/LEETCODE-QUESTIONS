@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 ## String
 |  |
