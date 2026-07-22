@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
