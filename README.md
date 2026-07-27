@@ -14,6 +14,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -37,6 +38,7 @@
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0039-combination-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
