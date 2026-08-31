@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
