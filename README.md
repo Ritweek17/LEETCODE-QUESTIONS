@@ -19,6 +19,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -152,4 +156,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0232-implement-queue-using-stacks) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
