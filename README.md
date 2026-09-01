@@ -17,6 +17,7 @@
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -34,6 +35,7 @@
 | [0645-set-mismatch](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
@@ -49,6 +51,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
@@ -178,4 +181,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
