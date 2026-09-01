@@ -60,6 +60,7 @@
 | [0014-longest-common-prefix](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -83,6 +84,7 @@
 | [0013-roman-to-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -122,6 +124,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
