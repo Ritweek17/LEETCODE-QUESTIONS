@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
