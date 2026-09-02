@@ -11,34 +11,32 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_set<int> s ;
-        for ( int x : nums){
+        unordered_set<int> s;
+        for(int x : nums){
             s.insert(x);
         }
-        ListNode* newHead = NULL;
+        ListNode* newHead = NULL ;
         ListNode* tail = NULL;
 
-        ListNode* temp = head;
-
+        ListNode* temp = head ;
         while(temp != NULL){
-            if (s.count(temp->val) == 0) {
-
+             bool found = false;
+            if(s.count(temp->val)==0){
                 ListNode* newNode = new ListNode(temp->val);
-
-                if (newHead == NULL) {
+                if(newHead == NULL){
                     newHead = newNode;
                     tail = newNode;
-                }
-                else {
-                    tail->next = newNode;
+                }else {
+                     tail->next = newNode;
                     tail = newNode;
                 }
             }
-
-            temp = temp->next;
+            temp = temp -> next ;
         }
 
-        return newHead;
+
+
+        return newHead ;
         }
     
 };
