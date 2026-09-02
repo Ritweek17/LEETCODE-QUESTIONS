@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
@@ -99,6 +100,7 @@
 | [0013-roman-to-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 ## Number Theory
