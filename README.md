@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
@@ -87,6 +88,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -152,6 +154,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
