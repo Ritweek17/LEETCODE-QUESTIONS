@@ -27,6 +27,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
