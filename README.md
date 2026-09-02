@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0413-arithmetic-slices](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0413-arithmetic-slices) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
@@ -180,6 +182,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
