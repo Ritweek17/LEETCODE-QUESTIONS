@@ -116,6 +116,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -195,6 +197,7 @@
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
