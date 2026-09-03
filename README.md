@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0413-arithmetic-slices](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0413-arithmetic-slices) |
@@ -132,6 +133,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0645-set-mismatch) |
