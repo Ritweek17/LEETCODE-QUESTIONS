@@ -72,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
