@@ -115,6 +115,7 @@
 | [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
