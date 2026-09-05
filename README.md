@@ -31,6 +31,7 @@
 | [1929-concatenation-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -52,6 +53,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0383-ransom-note) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
