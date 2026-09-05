@@ -88,6 +88,7 @@
 | [0014-longest-common-prefix](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
@@ -118,6 +119,7 @@
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
@@ -140,6 +142,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
@@ -177,6 +180,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
