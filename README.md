@@ -142,6 +142,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -159,6 +160,7 @@
 | [0342-power-of-four](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Trie
 |  |
@@ -195,6 +197,7 @@
 | [1260-shift-2d-grid](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | [0326-power-of-three](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
