@@ -83,6 +83,7 @@
 | [0027-remove-element](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -172,6 +173,7 @@
 | [0020-valid-parentheses](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 ## Number Theory
 |  |
@@ -217,6 +219,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -225,6 +228,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
