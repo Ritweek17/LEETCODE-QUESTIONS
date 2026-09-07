@@ -33,6 +33,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
