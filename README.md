@@ -133,6 +133,7 @@
 | [0066-plus-one](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
@@ -240,6 +241,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
@@ -267,6 +269,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
