@@ -86,6 +86,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -99,6 +100,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0771-jewels-and-stones) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
