@@ -35,6 +35,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -78,6 +79,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
