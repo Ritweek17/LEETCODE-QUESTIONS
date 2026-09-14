@@ -34,6 +34,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -251,6 +252,7 @@
 | [0413-arithmetic-slices](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Game Theory
 |  |
