@@ -40,6 +40,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -158,6 +159,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3870-count-commas-in-range) |
