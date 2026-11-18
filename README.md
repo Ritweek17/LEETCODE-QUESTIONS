@@ -114,6 +114,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
