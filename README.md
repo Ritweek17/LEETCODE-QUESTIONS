@@ -161,6 +161,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -220,6 +221,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/Ritweek17/LEETCODE-QUESTIONS/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
